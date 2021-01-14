@@ -1,0 +1,16 @@
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\bin\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.exe
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\bin\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.deps.json
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\bin\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.runtimeconfig.json
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\bin\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.runtimeconfig.dev.json
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\bin\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.dll
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\bin\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.pdb
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\obj\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.csprojAssemblyReference.cache
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\obj\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.RegistrosUsuarioForm.resources
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\obj\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.csproj.GenerateResource.cache
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\obj\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.AssemblyInfoInputs.cache
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\obj\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.AssemblyInfo.cs
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\obj\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.csproj.CoreCompileInputs.cache
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\obj\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.dll
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\obj\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.pdb
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\obj\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.genruntimeconfig.cache
+C:\Users\JeryJ\source\repos\Tarea1_DibujoDeFormulario\Tarea1_DibujoDeFormulario\obj\Debug\netcoreapp3.1\Tarea1_DibujoDeFormulario.Properties.Resources.resources
